@@ -20,7 +20,7 @@
  ## :trophy: Languages and Tools: :robot:
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px">
-<img src="[https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FDatei%3APython-logo-notext.svg&psig=AOvVaw3YlsyPv7uNiywOdjcOzFri&ust=1669268923190000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjB07fUw_sCFQAAAAAdAAAAABAE)" width="50px">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FDatei%3APython-logo-notext.svg&psig=AOvVaw3YlsyPv7uNiywOdjcOzFri&ust=1669268923190000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjB07fUw_sCFQAAAAAdAAAAABAE)" width="50px">
 
 
 
