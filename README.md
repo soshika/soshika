@@ -31,8 +31,8 @@
 [<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/vimalverma558/)
 [<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-dev.svg" width="30px">](https://dev.to/vimal)
 [<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-twitter.svg" width="30px">](https://twitter.com/vimalverma558)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:kumarvimal558@gmail.com)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-website.svg" width="30px">](https://vimal.letskhabar.com)
+<!-- [<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:kumarvimal558@gmail.com)
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-website.svg" width="30px">](https://vimal.letskhabar.com) -->
 
 -----
 Credits: [soshika](https://github.com/soshika)
