@@ -19,9 +19,16 @@
 
  ## :trophy: Languages and Tools: :robot:
 
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px">
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> 
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> 
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px">
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px">
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px">
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px">
 <img src="https://github.com/soshika/soshika/blob/main/img/icons8-python.svg" width="50px">
 <img src="https://github.com/soshika/soshika/blob/main/img/icons8-django.svg" width="50px">
+<img src="https://github.com/soshika/soshika/blob/main/img/icons8-golang.svg" width="50px">
+
 
 
 
