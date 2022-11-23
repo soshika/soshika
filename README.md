@@ -1,35 +1,40 @@
-<b>Bio:</b>
-<br>
-Talented Backend developer adept at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Designed and developed web application across multiple APIs, third-party integration and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.
+<p align="center">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <br><br>
+  <samp>
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Vimal kumar Web designer and developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> to support open source. Student at IIIT Ranchi :india:
+  </samp>
+</p>
 
-<b>Industry Knowledge:</b>
-<br>
-<ol>
-  <li>C/C++</li>
-  <li>C#</li>
-  <li>PHP</li>
-  <li>Golang</li>
-  <li>Python</li>
-  <li>Solidity</li>
-  <li>UI/UX</li>
-  <li>Django Framework</li>
-  <li>Xamarin Framework</li>
-  <li>MAUI Framework</li>
-  <li>Design Algorithms</li>
-  <li>Data structures</li>
-</ol>
-<br>
 
-<b>Tools and Technology:</b>
-<br>
-<ul>
-  <li>Figma</li>
-  <li>Adobe XD</li>
-  <li>Visual Code</li>
-  <li>Goland</li>
-  <li>Pycharm</li>
-  <li>Adobe After effect</li>
-  <li>Visual Studio</li>
-  <li>Slack</li>
-  <li>Trello</li>
-</ul>
+<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+
+
+
+## :pencil2: My Works: :trophy:       
+- [Letskhabar](https://letskhabar.com)
+- [Vimal](https://vimal.letskhabar.com)
+- [IIITians-Network Ranchi](https://ranchi.iiitiansnetwork.com/)
+- [Covid-19](https://covid-19.letskhabar.com/)
+- [Letskhabar Dev](https://dev.letskhabar.com)
+- [Bob](https://github.com/vimalverma558/Bob)
+- ### :robot: Open Source Packages :octocat:
+  - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
+  - Rive_design is Flutter Packages for Rive(Flare) [Rive_design](https://pub.dev/packages/rive_design)
+
+ ## :trophy: Languages and Tools: :robot:
+
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-flutter.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px">
+
+
+## :mailbox: Get in touch: 💬
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/vimalverma558/)
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-dev.svg" width="30px">](https://dev.to/vimal)
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-twitter.svg" width="30px">](https://twitter.com/vimalverma558)
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:kumarvimal558@gmail.com)
+[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-website.svg" width="30px">](https://vimal.letskhabar.com)
+
+-----
+Credits: [soshika](https://github.com/soshika)
+
+Last Edited on: 22/11/2022
