@@ -2,8 +2,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Sobhan Shafiei BackEnd Developer and Data Engineering working on <a href="http://alephba-system.ir">@Alephba :octocat:</a> </br>
-    Talented Backend developer adept at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Designed and developed web application across multiple APIs, third-party integration and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Sobhan Shafiei BackEnd Developer and Data Engineering working on <a href="http://alephba-system.ir">@Alephba :octocat:</a> </br>Talented Backend developer adept at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Designed and developed web application across multiple APIs, third-party integration and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.
   </samp>
 </p>
 
