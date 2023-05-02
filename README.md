@@ -1,36 +1,24 @@
-<p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-  <br><br>
-  <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px">I'm Sobhan Shafiei BackEnd Developer and Data Engineering working on <a href="http://alephba-system.ir">@Alephba :octocat:</a></samp>
-</p>
+# 💫 About Me:
+I am a software developer with a focus on back-end development, specializing in building robust and scalable server-side applications. My primary programming languages are Python and Golang, and I have experience working with databases such as MySQL, PostgreSQL, MongoDB, and SQLite. I am also familiar with tools like Elasticsearch (ELK) and Redis, which I have used to build high-performance systems. Additionally, I have experience with C# and technologies such as MAUI, Xamarin Forms, and SQL Server.<br><br>In terms of messaging, I have used RabbitMQ as a message broker and have experience building systems that use gRPC for high-performance, low-latency communication between microservices. In Golang, I have worked with frameworks such as Go-Gin and Gorila-Mux, and have recently been exploring OpenSearch.<br><br>With a passion for elegant code and efficient architecture, I strive to deliver high-quality software solutions that meet business needs. When I'm not coding, i play chess .
 
 
-<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sobhan-shafiei-9a1553a3) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=soshika&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=soshika&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soshika&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=soshika&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## :pencil2: My Works: :trophy:       
-- [Alephba-AR](http://alephba-system.ir)
-- ### :robot: Open Source Packages :octocat:
-  - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
-  - Rive_design is Flutter Packages for Rive(Flare) [Rive_design](https://pub.dev/packages/rive_design)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
- ## :trophy: Languages and Tools: :robot:
+---
+[![](https://visitcount.itsvg.in/api?id=soshika&icon=5&color=4)](https://visitcount.itsvg.in)
 
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-python.svg" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-django.svg" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-golang.svg" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-mysql-100.png" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-elasticsearch.svg" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/c%2B%2B.svg" width="48px" height="48px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-c-sharp-logo-2.svg" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-c-programming-48.png" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-redis.svg" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-figma.svg" width="50px"><img src="https://github.com/soshika/soshika/blob/main/img/icons8-postgresql.svg" width="50px">
-
-
-
-
-## :mailbox: Get in touch: 💬
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/sobhan-shafiei-9a1553a3/)
-<!-- [<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-dev.svg" width="30px">](https://dev.to/vimal)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-twitter.svg" width="30px">](https://twitter.com/vimalverma558) -->
-<!-- [<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:soshika1010@gmail.com)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-website.svg" width="30px">](https://alephba-system.ir) -->
-
------
-Credits: [soshika](https://github.com/soshika)
-
-Last Edited on: 22/11/2022
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
